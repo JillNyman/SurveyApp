@@ -1,0 +1,59 @@
+﻿@page "{surveyId:int}"
+@using SurveyShared
+@model SurveyWeb.Pages.Survey.StoreSurveyModel
+@{
+    ViewData["Title"] = "Besvara enkät";
+}
+<h1>@Model.Survey?.Title</h1>
+
+@if (Model.Survey?.Questions?.Count > 0)
+{
+    <form method="post">
+      
+        @for (int i = 0; i < Model.Survey.Questions.Count; i++)
+        {
+            var question = Model.Survey.Questions[i];
+            <div class="question-block">
+                <h3>@question.Text</h3>
+
+                @if (question.QuestionType == QuestionType.TextAnswer || question.Options == null)
+                {
+                    <input type="text"
+                           asp-for="Answers[@i].TextAnswer"
+                           class="form-control" />
+                }
+                else if (question.QuestionType == QuestionType.NumericRange)
+                {
+                    <label for="range@i">Välj ett värde mellan 1 och 10:</label>
+                    <input type="range" id="range@i"
+                            min="1" max="10" step="1"
+                           asp-for="Answers[@i].NumericAnswer"
+                           oninput="document.getElementById('rangeVal_@i').innerText = this.value"/>
+
+                           <span id="rangeVal_@i">@(Model.Answers[i].NumericAnswer ?? 0)</span>
+                          
+                }
+                else if (question.QuestionType == QuestionType.MultipleChoice)
+                {
+                    @foreach (var option in question.Options)
+                    {
+                        <div>
+                            <input type="checkbox"
+                                   name="Answers[@i].SelectedOptions"
+                                   value="@option.OptionText" />
+                            <label>@option.OptionText</label>
+                        </div>
+                    }
+                }
+
+               
+            </div>
+        }
+
+        <button type="submit" class="btn btn-primary">Skicka in alla svar</button>
+    </form>
+}
+else
+{
+    <p>Ingen enkät eller inga frågor att visa.</p>
+}

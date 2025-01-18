@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "FpzJaSFSuPQJAw6O7rIFkALyXOFso6dJ5CnwOLUk7/s=",
+  "Source": "surveyapi",
+  "BasePath": "_content/surveyapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

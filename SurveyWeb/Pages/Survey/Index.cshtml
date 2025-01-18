@@ -1,0 +1,35 @@
+﻿@page 
+@using SurveyShared;
+@model IndexModel
+@{
+    ViewData["Title"] = "Välj enkät";
+}
+
+<h2>Tillgängliga enkäter</h2>
+@if (Model.Surveys?.Count == 0)
+{
+    <p>Det finns inga enkäter att besvara.</p>
+}
+else
+{
+    <ul>
+        @foreach (var survey in Model.Surveys)
+        {
+            <li>
+                <a asp-page="/Survey/StoreSurvey"
+                asp-route-surveyId="@survey.Id">
+                @survey.Title
+                </a>
+            </li>
+        }
+    </ul>
+}
+
+
+@if (!ModelState.IsValid)
+{
+    <div class="text-danger">
+        @Html.ValidationSummary()
+    </div>
+}
+
