@@ -91,8 +91,6 @@ app.MapRazorPages();
 
 app.UseAuthorization();
 
-//app.UseSession();
-
 //Kartlägger controllers, för endpoints i API
 app.MapControllers();
 

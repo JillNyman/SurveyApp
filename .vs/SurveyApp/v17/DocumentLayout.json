@@ -3,52 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyweb\\pages\\survey\\storesurvey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|solutionrelative:surveyweb\\pages\\survey\\storesurvey.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyapi\\services\\answerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|solutionrelative:surveyapi\\services\\answerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{057E48DD-7BC3-484F-BFA5-D7E7420CE68A}|SurveyShared\\SurveyShared.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyshared\\surveydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057E48DD-7BC3-484F-BFA5-D7E7420CE68A}|SurveyShared\\SurveyShared.csproj|solutionrelative:surveyshared\\surveydtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyweb\\pages\\survey\\storesurvey.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|solutionrelative:surveyweb\\pages\\survey\\storesurvey.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|solutionrelative:surveyapi\\controllers\\questioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyapi\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|solutionrelative:surveyapi\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyapi\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|solutionrelative:surveyapi\\services\\surveyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyapi\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|solutionrelative:surveyapi\\controllers\\answercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|solutionrelative:surveyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyweb\\pages\\survey\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|solutionrelative:surveyweb\\pages\\survey\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyweb\\pages\\survey\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|solutionrelative:surveyweb\\pages\\survey\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{057E48DD-7BC3-484F-BFA5-D7E7420CE68A}|SurveyShared\\SurveyShared.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyshared\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{057E48DD-7BC3-484F-BFA5-D7E7420CE68A}|SurveyShared\\SurveyShared.csproj|solutionrelative:surveyshared\\questiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{796915AB-7DB0-4517-8726-0710AC3A56AF}|surveyweb\\SurveyWeb.csproj|solutionrelative:surveyweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|c:\\users\\jille\\documents\\webutv\\c#\\surveyapp\\surveyapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0493C0EB-237F-4AE6-86A8-E369C9C674DA}|surveyapi\\surveyapi.csproj|solutionrelative:surveyapi\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedHeight": 210,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnswerService.cs",
+              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Services\\AnswerService.cs",
+              "RelativeDocumentMoniker": "surveyapi\\Services\\AnswerService.cs",
+              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Services\\AnswerService.cs",
+              "RelativeToolTip": "surveyapi\\Services\\AnswerService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:11:01.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "surveyapi\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Models\\Question.cs",
+              "RelativeToolTip": "surveyapi\\Models\\Question.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T19:10:21.593Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -68,7 +54,7 @@
         },
         {
           "DockedHeight": 190,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -97,173 +83,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StoreSurvey.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml.cs",
-              "RelativeDocumentMoniker": "SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml.cs",
-              "RelativeToolTip": "SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAkwC4AAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T22:14:31.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "QuestionController.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Controllers\\QuestionController.cs",
-              "RelativeDocumentMoniker": "surveyapi\\Controllers\\QuestionController.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Controllers\\QuestionController.cs",
-              "RelativeToolTip": "surveyapi\\Controllers\\QuestionController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T22:23:08.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StoreSurvey.cshtml",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml",
-              "RelativeDocumentMoniker": "SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml",
-              "RelativeToolTip": "SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T07:25:49.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SurveyController.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Controllers\\SurveyController.cs",
-              "RelativeDocumentMoniker": "surveyapi\\Controllers\\SurveyController.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Controllers\\SurveyController.cs",
-              "RelativeToolTip": "surveyapi\\Controllers\\SurveyController.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAYwD0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T22:23:36.116Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SurveyService.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Services\\SurveyService.cs",
-              "RelativeDocumentMoniker": "surveyapi\\Services\\SurveyService.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Services\\SurveyService.cs",
-              "RelativeToolTip": "surveyapi\\Services\\SurveyService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T11:47:06.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AnswerController.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Controllers\\AnswerController.cs",
-              "RelativeDocumentMoniker": "surveyapi\\Controllers\\AnswerController.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Controllers\\AnswerController.cs",
-              "RelativeToolTip": "surveyapi\\Controllers\\AnswerController.cs",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:50:49.983Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Program.cs",
-              "RelativeDocumentMoniker": "surveyapi\\Program.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\surveyapi\\Program.cs",
-              "RelativeToolTip": "surveyapi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:23:09.374Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\Index.cshtml",
-              "RelativeDocumentMoniker": "SurveyWeb\\Pages\\Survey\\Index.cshtml",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\Index.cshtml",
-              "RelativeToolTip": "SurveyWeb\\Pages\\Survey\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-09T11:37:43.659Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "SurveyWeb\\Pages\\Survey\\Index.cshtml.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Pages\\Survey\\Index.cshtml.cs",
-              "RelativeToolTip": "SurveyWeb\\Pages\\Survey\\Index.cshtml.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T11:37:45.378Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "QuestionType.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyShared\\QuestionType.cs",
-              "RelativeDocumentMoniker": "SurveyShared\\QuestionType.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyShared\\QuestionType.cs",
-              "RelativeToolTip": "SurveyShared\\QuestionType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T09:41:07.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Program.cs",
-              "RelativeDocumentMoniker": "SurveyWeb\\Program.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyWeb\\Program.cs",
-              "RelativeToolTip": "SurveyWeb\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwDAAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:29:34.76Z"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "Orientation": 0,
-      "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "e7cc5438-5902-48e9-8121-d0728a0ae6d2",
-        "Display": 0,
-        "X": 186,
-        "Y": 0,
-        "Width": 858,
-        "Height": 857,
-        "WindowState": 0
-      },
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SurveyDtos.cs",
-              "DocumentMoniker": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyShared\\SurveyDtos.cs",
-              "RelativeDocumentMoniker": "SurveyShared\\SurveyDtos.cs",
-              "ToolTip": "C:\\Users\\jille\\Documents\\WEBUTV\\C#\\SurveyApp\\SurveyShared\\SurveyDtos.cs",
-              "RelativeToolTip": "SurveyShared\\SurveyDtos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:07:53.056Z",
-              "EditorCaption": ""
             }
           ]
         }

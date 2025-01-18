@@ -25,19 +25,7 @@ namespace surveyapi.Services
             {
                 _context.Answers.Add(answer);
             }
-            /*foreach (var answer in answers)
-            {
-                var dbAnswer = new Answer
-                {
-                    SurveyId = answer.SurveyId,
-                    QuestionId = answer.QuestionId,
-                    TextAnswer = answer.TextAnswer,
-                    SelectedOptions = answer.SelectedOptions,
-                    NumericAnswer = answer.NumericAnswer
-                };
-
-                _context.Answers.Add(dbAnswer);
-            }*/
+          
             await _context.SaveChangesAsync();
         }
 

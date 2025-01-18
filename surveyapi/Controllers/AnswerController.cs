@@ -17,12 +17,10 @@ namespace surveyapi.Controllers
     public class AnswerController : ControllerBase
     {
         private readonly IAnswerService _answerService;
-        //private readonly IQuestionService _questionService;
 
-        public AnswerController(IAnswerService answerService)//, IQuestionService questionService)
+        public AnswerController(IAnswerService answerService)
         {
             _answerService = answerService;
-            //_questionService = questionService;
         }
 
         [HttpPost("list")]
@@ -42,7 +40,6 @@ namespace surveyapi.Controllers
                
             }).ToList();
 
-            //_answerService.answers.AddRange(answerEntities);
             await _answerService.SubmitAnswersAsync(answers);
             return Ok("Svaren har skickats in.");
            
@@ -73,7 +70,7 @@ namespace surveyapi.Controllers
             await _answerService.SubmitAnswerAsync(answer);
 
             //returnera sparat svar
-            return Ok("Svaret har skickats in"); //Created((answerDto), new { id = answerDto.QuestionId }, answerDto);
+            return Ok("Svaret har skickats in"); 
         }
 
         //DELETE: api/answer/id

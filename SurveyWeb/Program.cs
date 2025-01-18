@@ -6,8 +6,6 @@ using Microsoft.Extensions.Hosting;
 
 var builder = WebApplication.CreateBuilder(args);
 
-
-
     //Lägger till httpclient för att peka på API i surveyapi
     builder.Services.AddHttpClient("surveyapi", client =>
     {
@@ -16,15 +14,6 @@ var builder = WebApplication.CreateBuilder(args);
     // Add services to the container.
     builder.Services.AddRazorPages();
     builder.Services.AddSession();
-
-
-
-
-
-//builder.Services.AddTransient<SurveyApiService>();
-
-//builder.Services.AddDistributedMemoryCache();
-
 
 var app = builder.Build();
 
@@ -46,9 +35,6 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-//app.UseSession();
-
 app.MapRazorPages();
-
 
 app.Run();

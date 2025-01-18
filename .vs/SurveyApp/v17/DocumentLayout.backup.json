@@ -108,8 +108,7 @@
               "RelativeToolTip": "SurveyWeb\\Pages\\Survey\\StoreSurvey.cshtml.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAkwC4AAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T22:14:31.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T22:14:31.987Z"
             },
             {
               "$type": "Document",
@@ -121,8 +120,7 @@
               "RelativeToolTip": "surveyapi\\Controllers\\QuestionController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T22:23:08.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T22:23:08.6Z"
             },
             {
               "$type": "Document",
@@ -147,8 +145,7 @@
               "RelativeToolTip": "surveyapi\\Controllers\\SurveyController.cs",
               "ViewState": "AgIAADAAAAAAAAAAAAAYwD0AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T22:23:36.116Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T22:23:36.116Z"
             },
             {
               "$type": "Document",
@@ -160,8 +157,7 @@
               "RelativeToolTip": "surveyapi\\Services\\SurveyService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-09T11:47:06.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-09T11:47:06.705Z"
             },
             {
               "$type": "Document",
@@ -173,8 +169,7 @@
               "RelativeToolTip": "surveyapi\\Controllers\\AnswerController.cs",
               "ViewState": "AgIAAEoAAAAAAAAAAAAgwDwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T15:50:49.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T15:50:49.983Z"
             },
             {
               "$type": "Document",
@@ -186,8 +181,7 @@
               "RelativeToolTip": "surveyapi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-08T16:23:09.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-08T16:23:09.374Z"
             },
             {
               "$type": "Document",
@@ -248,9 +242,9 @@
         "Id": "e7cc5438-5902-48e9-8121-d0728a0ae6d2",
         "Display": 0,
         "X": 186,
-        "Y": 63,
+        "Y": 0,
         "Width": 858,
-        "Height": 865,
+        "Height": 857,
         "WindowState": 0
       },
       "DocumentGroups": [
